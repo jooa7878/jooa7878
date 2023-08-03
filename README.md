@@ -14,17 +14,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <div align=center>
+  <div align=left>
   
   # Hi there 👋
+  <br/>
 
-	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooa7878)](https://hits.seeyoufarm.com) 
 
-  ## Experience
-  2023.07 ~ 		[NAVER Corp](https://navercorp.com)
-  2022.05 ~ 2023.06	[NouteCompany](https://webudding.com)
+  <br/>
+
   
+  ## Experience
+  2023.07 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NAVER Corp](https://navercorp.com)
+  <br/><br/>
+  2022.05 ~ 2023.06&nbsp;&nbsp;&nbsp;&nbsp;	[NouteCompany](https://webudding.com)
+  
+  <br/>
     
   ## Front-End Developer,, 였던 것,,
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> </a> &nbsp;
@@ -35,8 +40,8 @@ Here are some ideas to get you started:
 
  
   
-  
-  <br/><br/><br/><br/>
+
+  <br/><br/><br/>
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jooa7878)](https://solved.ac/jooa7878)
   
   ![jooa7878's github stats](https://github-readme-stats.vercel.app/api?username=jooa7878&show_icons=true)
