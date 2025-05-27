@@ -17,12 +17,6 @@ Here are some ideas to get you started:
   <div align=left>
   
   # Hi there 👋
-  <br/>
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooa7878)](https://hits.seeyoufarm.com) 
-
-  <br/>
-
   
   ## Experience
   2023.07 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NAVER Corp](https://navercorp.com)
